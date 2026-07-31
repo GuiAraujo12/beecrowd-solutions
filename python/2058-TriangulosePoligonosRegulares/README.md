@@ -1,4 +1,4 @@
-# 2058 — Triângulos e Polígonos Regu…
+# 2058 — Triângulos e Polígonos Regulares
 
 - Plataforma: Beecrowd
 - [Ver problema](https://judge.beecrowd.com/pt/problems/view/2058)
@@ -7,4 +7,3 @@
 ## Ideia da solução
 
 Implementação original aceita no Beecrowd.
-
