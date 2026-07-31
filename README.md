@@ -1,4 +1,6 @@
-![Capa do repositório](./assets/programming-solutions-cover.png)
+<p align="center">
+  <img src="./assets/programming-solutions-transparent.png" width="420" alt="Ilustração de soluções de programação">
+</p>
 
 # Soluções de Programação
 
