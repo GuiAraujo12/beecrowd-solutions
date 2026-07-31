@@ -1,3 +1,5 @@
+![Capa do repositório](./assets/programming-solutions-cover.png)
+
 # Soluções de Programação
 
 Repositório com soluções aceitas de exercícios de programação.
