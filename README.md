@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/programming-solutions-transparent.png" width="420" alt="Ilustração de soluções de programação">
+  <img src="./assets/student-registration-transparent.png" width="420" alt="Ilustração de soluções de programação">
 </p>
 
 # Soluções de Programação
