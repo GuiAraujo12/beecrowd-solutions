@@ -1,12 +1,10 @@
-# Soluções Beecrowd
+# Soluções de Programação
 
-Resoluções de exercícios da plataforma Beecrowd.
+Repositório com soluções aceitas de exercícios de programação.
 
-## Linguagens
+## Plataformas
 
-- Python
-- Java
+- [Beecrowd](./beecrowd/)
+- [LeetCode](./leetcode/)
 
-## Organização
-
-Cada pasta contém uma solução aceita, identificada pelo número e título do problema.
+Cada plataforma é organizada por linguagem. Cada problema possui uma pasta com o número, título, código da solução e um README curto.
